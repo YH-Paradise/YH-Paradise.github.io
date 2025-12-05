@@ -20,7 +20,7 @@ profile:
 #      </a>
       
       <!-- GitHub -->
-      <a href="https://github.com/yh-paradise" target="_blank" title="GitHub">
+      <a href="https://github.com/YH-Paradise" target="_blank" title="GitHub">
         <i class="fab fa-github"></i>
       </a>
       
