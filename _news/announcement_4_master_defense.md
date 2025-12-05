@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my Master's thesis. I am expected to graduate in February 2026.
+I successfully defended my Master's thesis. (Expected to graduate in February 2026.)
