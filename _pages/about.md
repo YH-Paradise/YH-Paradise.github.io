@@ -9,7 +9,7 @@ profile:
   image: HyunYang_img.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <div style="font-family: monospace, sans-serif; font-size: 0.9rem;">
+    <div style="font-family: monospace, sans-serif; font-size: 1.2rem;">
       <p>goodtobehomeyh@gmail.com</p>
       <p>123 your address street</p>
       <p>Seoul, Korea, Republic of.</p>
