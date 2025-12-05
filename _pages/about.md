@@ -9,7 +9,7 @@ profile:
   image: HyunYang_img.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <div class="profile-social-icons">      
+    <div class="profile-social-icons" style="text-align: center;">      
       <!-- GitHub -->
       <a href="https://github.com/YH-Paradise" target="_blank" title="GitHub">
         <i class="fab fa-github"></i>
