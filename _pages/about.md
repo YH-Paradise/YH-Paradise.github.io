@@ -42,9 +42,9 @@ latest_posts:
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Master's candidate in Computer Engineering at Korea University under the supervision of Prof. Jin Tae Kwak. My research focuses on Medical Image Analysis, specifically utilizing MR and CT images. 
+I am a Master's candidate in Computer Engineering at Korea University under the supervision of Prof. Jin Tae Kwak. My research focuses on **Medical Image Analysis**, specifically utilizing MR and CT images. 
 
-Currently, I am working as a Software Developer and AI Engineer at DeepClue Inc., developing DeepClue-Precise, a software solution for stroke patients.
+Currently, I am working as a Software Developer and AI Engineer at **DeepClue Inc.**, developing **DeepClue-Precise**, a software solution for stroke patients.
 
 I am actively seeking Ph.D. opportunities to further my research.
 
