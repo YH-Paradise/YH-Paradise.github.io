@@ -13,12 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Seoul, Korea, Republic of.</p>
     
-    <div class="profile-social-icons">
-#      <!-- CV (PDF 파일 링크) -->
-#      <a href="/assets/pdf/example_cv.pdf" target="_blank" title="CV">
-#        <i class="fas fa-file-pdf"></i>
-#      </a>
-      
+    <div class="profile-social-icons">      
       <!-- GitHub -->
       <a href="https://github.com/YH-Paradise" target="_blank" title="GitHub">
         <i class="fab fa-github"></i>
