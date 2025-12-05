@@ -9,10 +9,12 @@ profile:
   image: HyunYang_img.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>goodtobehomeyh@gmail.com</p>
-    <p>123 your address street</p>
-    <p>Seoul, Korea, Republic of.</p>
-    
+    <div style="font-family: 'Arial', sans-serif; font-size: 0.9rem;">
+      <p>goodtobehomeyh@gmail.com</p>
+      <p>123 your address street</p>
+      <p>Seoul, Korea, Republic of.</p>
+    </div>    
+
     <div class="profile-social-icons">      
       <!-- GitHub -->
       <a href="https://github.com/YH-Paradise" target="_blank" title="GitHub">
