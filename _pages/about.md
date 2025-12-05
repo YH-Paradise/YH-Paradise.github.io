@@ -12,6 +12,29 @@ profile:
     <p>goodtobehomeyh@gmail.com</p>
     <p>123 your address street</p>
     <p>Seoul, Korea, Republic of.</p>
+    
+    <div class="profile-social-icons">
+#      <!-- CV (PDF 파일 링크) -->
+#      <a href="/assets/pdf/example_cv.pdf" target="_blank" title="CV">
+#        <i class="fas fa-file-pdf"></i>
+#      </a>
+      
+      <!-- GitHub -->
+      <a href="https://github.com/yh-paradise" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+      
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/goodtobehomeyh" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      
+      <!-- E-mail -->
+      <a href="mailto:goodtobehomeyh@gmail.com" title="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </div>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
@@ -25,7 +48,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
