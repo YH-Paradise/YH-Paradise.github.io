@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -446,6 +446,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%67%6F%6F%64%74%6F%62%65%68%6F%6D%65%79%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/YH-Paradise", "_blank");
         },
       },{
         id: 'social-linkedin',
