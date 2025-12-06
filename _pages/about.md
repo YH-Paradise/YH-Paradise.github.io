@@ -48,4 +48,4 @@ Currently, I am working as a Software Developer and AI Engineer at **DeepClue In
 
 I am actively seeking Ph.D. opportunities to further my research.
 
-Email: hyang05 (at) deepclue (dot) io
+Email: goodtobehomeyh (at) gmail (dot) com
