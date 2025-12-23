@@ -397,7 +397,9 @@ ninja.data = [{
             },},{id: "news-i-joined-miccai2025-and-presented-my-work",
           title: 'I joined MICCAI2025 and presented my work!',
           description: "",
-          section: "News",},{id: "news-i-successfully-defended-my-master-s-thesis-expected-to-graduate-in-february-2026",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6_miccai2025/";
+            },},{id: "news-i-successfully-defended-my-master-s-thesis-expected-to-graduate-in-february-2026",
           title: 'I successfully defended my Master’s thesis. (Expected to graduate in February 2026.)',
           description: "",
           section: "News",},{id: "projects-project-1",
