@@ -2,7 +2,7 @@
 layout: post
 title: Participated in KIMES 2025 to showcase our product, "DeepClue-Precise"
 date: 2025-03-20
-inline: true
+inline: false
 related_posts: false
 ---
 
