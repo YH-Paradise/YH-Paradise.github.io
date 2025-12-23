@@ -389,10 +389,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-deepclue-inc-as-a-software-developer-and-ai-engineer",
           title: 'I joined DeepClue Inc. as a Software Developer and AI Engineer.',
           description: "",
-          section: "News",},{id: "news-participated-in-kimes-2025-to-showcase-our-product-deepclue-precise-designated-as-an-innovative-medical-device",
-          title: 'Participated in KIMES 2025 to showcase our product, “DeepClue-Precise”, designated as an Innovative...',
+          section: "News",},{id: "news-participated-in-kimes-2025-to-showcase-our-product-quot-deepclue-precise-quot",
+          title: 'Participated in KIMES 2025 to showcase our product, &amp;quot;DeepClue-Precise&amp;quot;',
           description: "",
-          section: "News",},{id: "news-i-joined-miccai2025-and-presented-my-work",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7_KIMES/";
+            },},{id: "news-i-joined-miccai2025-and-presented-my-work",
           title: 'I joined MICCAI2025 and presented my work!',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-master-s-thesis-expected-to-graduate-in-february-2026",
