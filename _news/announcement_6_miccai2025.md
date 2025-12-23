@@ -8,5 +8,6 @@ related_posts: false
 
 I joined **MICCAI2025** and presented <a href="/assets/pdf/MICCAI_MedAGI_poster_250918_final.pdf" target="_blank">my work</a>!
 
-<br>
-<img src="/assets/img/MICCAI2025_img.jpg" width="70%" style="border-radius: 8px;">
+<div style="text-align: center;">
+    <img src="/assets/img/MICCAI2025_img.jpg" width="70%" style="border-radius: 8px;">
+</div>

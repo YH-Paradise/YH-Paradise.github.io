@@ -8,5 +8,6 @@ related_posts: false
 
 Participated in **KIMES 2025** to showcase our product, "DeepClue-Precise", designated as an **Innovative Medical Device**.
 
-<br>
-<img src="/assets/img/KIMES_img.jpg" width="70%" style="border-radius: 8px;">
+<div style="text-align: center;">
+    <img src="/assets/img/KIMES_img.jpg" width="70%" style="border-radius: 8px;">
+</div>
