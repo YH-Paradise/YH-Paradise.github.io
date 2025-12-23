@@ -2,7 +2,7 @@
 layout: post
 title: I joined MICCAI2025 and presented my work!
 date: 2025-09-24
-inline: true
+inline: false
 related_posts: false
 ---
 
