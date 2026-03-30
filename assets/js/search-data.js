@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-i-successfully-defended-my-master-s-thesis-expected-to-graduate-in-february-2026",
           title: 'I successfully defended my Master’s thesis. (Expected to graduate in February 2026.)',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-finally-graduated-i-finished-my-master-39-s-in-korea-university",
+          title: 'Finally graduated! I finished my Master&amp;#39;s in Korea University!!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8_graduation/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
